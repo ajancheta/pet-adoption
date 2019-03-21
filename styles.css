@@ -1,0 +1,16 @@
+
+.column{
+  width: 1000px;
+  float: left;
+  column-count: 5;
+  border: 2px solid green;
+  padding: 4px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  background-color: #50C1B0;
+}
+
+img{
+  table-layout: fixed;
+  width: 180px;
+}
